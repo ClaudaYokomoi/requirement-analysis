@@ -88,7 +88,7 @@ These define the quality attributes of the system. For a booking management proj
 - Simplify communication between stakeholders and developers.
 
 **Example Diagram for a Booking System**:  
-![Use Case Diagram](images/alx-booking-uc.png)
+![Use Case Diagram](alx-booking-uc.png)
 
 ---
 
